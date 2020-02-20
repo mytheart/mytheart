@@ -1,6 +1,6 @@
 {
   "name": "mytheart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "自用的一些方法库",
   "main": "index.js",
   "scripts": {
