@@ -1,0 +1,19 @@
+{
+  "name": "mytheart",
+  "version": "1.0.0",
+  "description": "自用的一些方法库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mytheart/mytheart.git"
+  },
+  "author": "mytheart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mytheart/mytheart/issues"
+  },
+  "homepage": "https://github.com/mytheart/mytheart#readme"
+}
