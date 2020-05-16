@@ -12,7 +12,7 @@ export function getInfoByID(idNum) {
   const month = myDate.getMonth() + 1;
   const day = myDate.getDate();
   let age = myDate.getFullYear() - idNum.substring(6, 10) - 1;
-  if (idNum.substring(10, 12) < month || idNum.substring(10, 12) === month && idNum.substring(12, 14) <= day) {
+  if (idNum.substring(10, 12) < month || idNum.substring(10, 12) == month && idNum.substring(12, 14) <= day) {
     age++;
   }
   result.age = age;
