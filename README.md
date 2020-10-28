@@ -1,6 +1,6 @@
 ### Hi there, I'm mytheart 👋
 
-blogs: [张印的个人博客](https://blog.csdn.net/weixin_42755677)
+blogs: [mytheart的个人博客](https://blog.csdn.net/weixin_42755677)
 掘金: [mytheart](https://juejin.im/user/4406498335661486)
 
 **Languages and Tools:**  
